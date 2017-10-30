@@ -15,7 +15,8 @@ Mumun yoğunluğu sudan daha az olması sebebiyle ( yağdan yapıldığı için 
 
  1. Stavros Theodorakis, "The paradox of the floating candle that continues to burn"
  http://aapt.scitation.org/doi/abs/10.1119/1.4726320
- 2. "how to make a floating candle"
+ 2. "how to make a floating candle"    
  https://www.youtube.com/watch?v=smZmq_DvECU&feature=youtu.be
- 
+ 3. Anthony Hamins, Matthew Bundy, Scott E. Dillon "Characterization of Candle Flames"
+ http://journals.sagepub.com/doi/abs/10.1177/1042391505053163
 
